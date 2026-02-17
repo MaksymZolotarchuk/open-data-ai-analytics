@@ -28,4 +28,4 @@
 - reports/figures/ — збережені графіки
 
 ## Conflict section
-CONFLICT_LINE=FROM_A
+CONFLICT_LINE=ORIGINAL
