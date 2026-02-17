@@ -47,7 +47,7 @@
 ## 6. Інструкція запуску
 ### Завантаження даних
 ```bash
-DATA_URL="(посилання на CSV з data.gov.ua)" DATA_FILENAME="vehicles_2024.csv" python -m src.data_load.download
+DATA_URL="(https://data.gov.ua/dataset/06779371-308f-42d7-895e-5a39833375f0/resource/c3ffecc4-bb5c-4102-b761-6dcfeb60b4fe)" DATA_FILENAME="tz_opendata_z01012024_po01012025" python -m src.data_load.download
 ```
 
 ### Перевірка якості даних
@@ -70,7 +70,7 @@ python -m src.visualization.plots
 Проєкт демонструє повний pipeline роботи з відкритими даними: завантаження, перевірка,
 аналіз та візуалізація.
 
-## 8. Git logl
+## 8. Git log
 * 49089e4 (HEAD -> main, origin/main) docs: add report
 * 0374534 docs: add report
 * 722de3b (tag: v0.1.0) docs: add changelog
