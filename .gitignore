@@ -1,13 +1,20 @@
+# Python
 __pycache__/
+*.pyc
+
+# Jupyter
 .ipynb_checkpoints/
+
+# Environments
 .venv/
 .env
+
+# Data (large files)
 data/raw/
-__pycache__/
-*.py[cod]
-*.class
-.ipynb_checkpoints/
-.venv/
-.env
-data/raw/
-reports/figures/*.png
+data/external/
+data/interim/
+data/processed/
+
+# OS
+.DS_Store
+Thumbs.db
