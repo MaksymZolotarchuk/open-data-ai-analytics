@@ -26,3 +26,6 @@
 - src/visualization — графіки
 - notebooks/ — EDA
 - reports/figures/ — збережені графіки
+
+## Conflict section
+CONFLICT_LINE=ORIGINAL
