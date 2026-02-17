@@ -69,3 +69,39 @@ python -m src.visualization.plots
 Отримано базові статистичні характеристики транспортних засобів за 2024 рік.
 Проєкт демонструє повний pipeline роботи з відкритими даними: завантаження, перевірка,
 аналіз та візуалізація.
+
+## 8. Git logl
+* 49089e4 (HEAD -> main, origin/main) docs: add report
+* 0374534 docs: add report
+* 722de3b (tag: v0.1.0) docs: add changelog
+*   540438c merge: feature/visualization
+|\  
+| * 1e6bdce (feature/visualization) feat(visualization): add basic plots
+|/  
+*   3481648 fix: resolve README merge conflict
+|\  
+| * 3524dd6 (feature/conflict_b) docs: change conflict line (B)
+* | 6987f90 (feature/conflict_a) docs: change conflict line (A)
+|/  
+* b769fa9 reset README before conflict demo
+* 55988b0 docs: change conflict line (A)
+* cac93b1 docs: add conflict marker line
+*   80a4244 merge: feature/data_research
+|\  
+| * a63fe6a (feature/data_research) feat(data_research): add EDA outputs
+* |   8162874 merge: feature/data_quality_analysis
+|\ \  
+| |/  
+|/|   
+| * 245c80a (feature/data_quality_analysis) feat(data_quality): add data quality report
+|/  
+*   67d20b5 merge: feature/data_load
+|\  
+| * c9b05f6 (feature/data_load) feat(data_load): add data download script
+| * de6228d docs: add project description, data source and hypotheses
+| * 959e625 chore: init structure and gitignore
+|/  
+* faf399d docs: add project description, data source and hypotheses
+* adf1c60 chore: init project structure and gitignore
+* 13463a7 add gitignore
+* 9ac51b0 add data readme
