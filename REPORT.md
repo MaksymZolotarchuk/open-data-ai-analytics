@@ -1,8 +1,7 @@
 # REPORT
 
 ## 1. Репозиторій
-- Link: https://github.com/<YOUR_USERNAME>/open-data-ai-analytics
-
+- Link: https://github.com/MaksymZolotarchuk/open-data-ai-analytics
 ## 2. Джерело даних
 - Портал відкритих даних України: https://data.gov.ua/
 - Датасет: Дані щодо транспортних засобів за 2024 рік
